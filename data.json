@@ -1,0 +1,58 @@
+[
+  {"year": 2017, "month": "Junho", "category": "Citação", "description": "\"Devias ir estudar engenharia!\" — Pai",  "img": ["imgs/01_1.jpg", "imgs/01_2.JPEG", "imgs/01_3.jpg"]},
+  {"year": 2017, "month": "Junho", "category": "Reflexão", "description": "\"Eu quero estudar artes e desenhar em computadores!\"", "img": ["imgs/02.JPEG"]},
+  {"year": 2017, "month": "Setembro", "category": "Formação", "description": "Entrada na Escola Artística Soares dos Reis", "img": ["imgs/03_01.jpg", "imgs/03_02.jpg"]},
+
+  {"year": 2020, "month": "Janeiro", "category": "Reflexão", "description": "\"Durante a Soares ganhei o bichinho pela programação (mas também muitas dores de cabeça)!\"", "img": ["imgs/04_01.jpg", "imgs/04_02.jpg", "imgs/04_03.jpg"]},
+  {"year": 2020, "month": "Março", "category": "Citação", "description": "\"O design é como uma piada, é má se tiver que ser explicada!\" — Prof. Agostinho", "img": ["imgs/05_1.jpg", "imgs/05_2.JPEG", "imgs/05_3.jpg"]},
+  {"year": 2020, "month": "Julho", "category": "Projeto", "description": "Orquestra Filarmónica Portuguesa — PAA (PÂNICO PÂNICO PÂNICO)", "img": ["imgs/06_1.jpg"]},
+  {"year": 2020, "month": "Julho", "category": "Formação", "description": "Conclusão da Escola Artística Soares dos Reis", "img": ["imgs/07_1.gif", "imgs/07_2.gif"]},
+
+  {"year": 2021, "month": "Julho", "category": "Projeto", "description": "O Poder da Comunicação pela Arte: a Música e as Artes Visuais — PAA Conservatório de Música do Porto", "img": ["imgs/08.jpg"]},
+  {"year": 2021, "month": "Setembro", "category": "Formação", "description": "Entrada na Licenciatura em Design de Comunicação — FBAUP", "img": ["imgs/09_1.jpg", "imgs/09_2.jpg"]},
+
+  {"year": 2022, "month": "Novembro", "category": "Experiência", "description": "Designer na Secção de Comunicação do OUP", "img": ["imgs/10_1.JPG", "imgs/10_2.jpg", "imgs/10_3.jpg"]},
+  {"year": 2022, "month": "Novembro", "category": "Citação", "description": "\"Quando tu vais a um museu há uns que são Monet outros que são Caget.\" — Prof. Eduardo Aires", "img": ["imgs/11.jpg"]},
+  {"year": 2022, "month": "Dezembro", "category": "Projeto", "description": "Água Pedras Salgadas", "img": ["imgs/12_2.jpg"]},
+  {"year": 2022, "month": "Dezembro", "category": "Reflexão", "description": "\"E, de repente, começa o trauma com trabalhos de grupo!\"", "img": ["imgs/13_1.jpg", "imgs/13_2.jpg", "imgs/13_3.jpg"]},
+
+  {"year": 2023, "month": "Junho", "category": "Projeto", "description": "Minerva", "img": ["imgs/14_1.jpg", "imgs/14_2.jpg", "imgs/14_4.jpg"]},
+  {"year": 2023, "month": "Junho", "category": "Projeto", "description": "Midnight City", "img": ["imgs/15_2.jpg"]},
+  {"year": 2023, "month": "Julho", "category": "Experiência", "description": "Exposição \"The Dynamic Eye: Op and Kinetic Art\" — Atkinson Museum", "img": ["imgs/16_1.jpg", "imgs/16_2.gif", "imgs/16_3.jpg"]},
+  {"year": 2023, "month": "Novembro", "category": "Projeto", "description": "XXXVII FITU", "img": ["imgs/17_1.jpg", "imgs/17_2.JPG", "imgs/17_3.jpg"]},
+  {"year": 2023, "month": "Novembro", "category": "Formação", "description": "Curso de Curta Duração em Motion para Design Gráfico — ESAD", "img": ["imgs/18_1.gif", "imgs/18_2.gif", "imgs/18_3.gif"]},
+  {"year": 2023, "month": "Novembro", "category": "Projeto", "description": "Yours for the telling", "img": ["imgs/19_1.jpg", "imgs/19_2.gif"]},
+
+  {"year": 2024, "month": "Janeiro", "category": "Projeto", "description": "Females on Portuguese Advertising Campaigns", "img": ["imgs/20_2.jpg"]},
+  {"year": 2024, "month": "Janeiro", "category": "Projeto", "description": "Portuguese Expressions in English", "img": ["imgs/21_1.jpg", "imgs/21_3.jpg"]},
+  {"year": 2024, "month": "Fevereiro", "category": "Projeto", "description": "Eventos Orfeão Universitário do Porto", "img": ["imgs/22_1.jpg", "imgs/22_2.jpg", "imgs/22_3.jpg"]},
+  {"year": 2024, "month": "Março", "category": "Formação", "description": "Workshops PCD’24 — FBAUP", "img": ["imgs/23_1.jpg", "imgs/23_2.jpg"]},
+  {"year": 2024, "month": "Maio", "category": "Experiência", "description": "Exposição \"Ludic Aesthetics PCD’24\" — FBAUP", "img": ["imgs/24_1.jpg", "imgs/24_2.jpg"]},
+  {"year": 2024, "month": "Maio", "category": "Projeto", "description": "Dreamland — Lyric Book", "img": ["imgs/25_2.jpg"]},
+  {"year": 2024, "month": "Junho", "category": "Projeto", "description": "Icon(ography) — as a technological archive", "img": ["imgs/26_1.jpg", "imgs/26_2.gif", "imgs/26_3.jpg"]},
+  {"year": 2024, "month": "Junho", "category": "Projeto", "description": "Lisboa, Cidade Triste e Alegre", "img": ["imgs/27_1.jpg", "imgs/27_2.jpg"]},
+  {"year": 2024, "month": "Junho", "category": "Experiência", "description": "Feira da Alegria", "img": ["imgs/28_1.jpg", "imgs/28_2.jpg", "imgs/28_3.jpg"]},
+  {"year": 2024, "month": "Junho", "category": "Citação", "description": "\"God, I love my job!\" — Jake Peralta", "img": ["imgs/29.jpg"]},
+  {"year": 2024, "month": "Setembro", "category": "Experiência", "description": "UX Designer na Wevolved Creative Agency", "img": ["imgs/30_1.jpg", "imgs/30_2.jpg", "imgs/30_3.jpg"]},
+  {"year": 2024, "month": "Outubro", "category": "Reflexão", "description": "\"Prof. Pedro Amado fez-me ficar obcecada por type… mas também por spacings!\"", "img": ["imgs/31_1.jpg", "imgs/31_2.jpg", "imgs/31_3.jpg"]},
+  {"year": 2024, "month": "Dezembro", "category": "Projeto", "description": "Brutneuve — Tipografia", "img": ["imgs/32_1.gif", "imgs/32_2.png"]},
+
+  {"year": 2025, "month": "Janeiro", "category": "Experiência", "description": "Júnior Designer na FBAUP Design Inc.", "img": ["imgs/33_1.jpg", "imgs/33_2.jpg", "imgs/33_3.jpg"]},
+  {"year": 2025, "month": "Março", "category": "Projeto", "description": "IV Norte Tradições", "img": ["imgs/34_1.jpg", "imgs/34_2.jpg"]},
+  {"year": 2025, "month": "Abril", "category": "Projeto", "description": "Processing Community Day, Sense of Wonder", "img": ["imgs/35_1.jpg", "imgs/35_2.gif"]},
+  {"year": 2025, "month": "Maio", "category": "Projeto", "description": "Queima das Fitas", "img": ["imgs/36_1.jpg", "imgs/36_2.jpg", "imgs/36_3.jpg"]},
+  {"year": 2025, "month": "Junho", "category": "Projeto", "description": "Expor a Escola", "img": ["imgs/37_1.jpg", "imgs/37_2.jpg", "imgs/37_3.jpg"]},
+  {"year": 2025, "month": "Junho", "category": "Projeto", "description": "Eventos na FBAUP", "img": ["imgs/38_1.jpg", "imgs/38_2.jpg", "imgs/38_3.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Projeto", "description": "Título, precisa-se! — Exposição de finalistas da LDC", "img": ["imgs/39_1.jpg", "imgs/39_3.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Citação", "description": "\"Adoro a nossa profissão porque permite trabalhar entre amigos!\" — João Queirós", "img": ["imgs/40_1.jpg", "imgs/40_2.jpg", "imgs/40_3.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Formação", "description": "Conclusão da Licenciatura", "img": ["imgs/41_1.jpg", "imgs/41_2.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Projeto", "description": "Graduated with a design degree", "img": ["imgs/42_1.jpg", "imgs/42_2.jpg", "imgs/42_3.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Experiência", "description": "Os Glass Animals ficaram no nosso livro no Nos Alive. PERIODT.", "img": ["imgs/43_1.jpg", "imgs/43_2.jpg", "imgs/43_3.jpg"]},
+  {"year": 2025, "month": "Julho", "category": "Projeto", "description": "Ligatures", "img": ["imgs/44_2.jpg", "imgs/44_3.gif"]},
+  {"year": 2025, "month": "Setembro", "category": "Projeto", "description": "Mister Cork — Catalogue 001", "img": ["imgs/45_1.jpg", "imgs/45_2.jpg", "imgs/45_3.jpg"]},
+  {"year": 2025, "month": "Setembro", "category": "Formação", "description": "Entrada no Mestrado em Design e Multimédia — FCTUC", "img": ["imgs/46_1.jpg", "imgs/46_2.jpg", "imgs/46_3.jpg"]},
+  {"year": 2025, "month": "Outubro", "category": "Projeto", "description": "Festival de Música Portuscal", "img": ["imgs/47_1.jpg", "imgs/47_2.jpg"]},
+  {"year": 2025, "month": "Outubro", "category": "Projeto", "description": "Bingo 23 da Pikena", "img": ["imgs/48_1.jpg", "imgs/48_2.jpg", "imgs/48_3.jpg"]},
+
+  {"year": 2030, "month": "Janeiro", "category": "Reflexão", "description": "Será que o meu pai já acha que eu vou conseguir viver disto?", "img": ["imgs/49_1.jpg"]}
+]
